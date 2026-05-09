@@ -31,8 +31,8 @@ def normal_tip(num):
 
 
 items = {
-    "weak_tip":   [5,  weak_tip],
-    "normal_tip": [25, normal_tip],
+    "weak_tip":   [3,  weak_tip],
+    "normal_tip": [15, normal_tip],
 }
 
 num = random.randint(1, 10)
